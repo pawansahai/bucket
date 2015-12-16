@@ -7,4 +7,5 @@ console.log(0);
 
 function ab () {
     console.log(1);
+    console.log(2);
 }
